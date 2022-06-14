@@ -2,9 +2,9 @@
 
 ////////////////=============[Made with ❤️ by LapanWasTaken]===============////////////////
 
-///https://api.telegram.org/bot<token>/setwebhook?url=<url>
+///https://api.telegram.org/bot5396412844:AAHh5VJXhNHNab5hz42nGLvVIwKWfR_kKic/setwebhook?url=https://pruebarumbo.herokuapp.com/main.php
 
-$botToken = "5261916902:AAFhg0QN0s9weVpPzIZdnNihjQLRSwfXbrk"; // Enter ur bot token
+$botToken = "5396412844:AAHh5VJXhNHNab5hz42nGLvVIwKWfR_kKic"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
 error_reporting(0);
 $update = file_get_contents('php://input');
